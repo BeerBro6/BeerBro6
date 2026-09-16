@@ -1,10 +1,10 @@
-﻿<div align="center">
+<div align="center">
 
-# Hey, I'm Pilot 👋
+# Hey, I'm Anmol Ratn 👋
 
 ### ML Engineer · Data Scientist · Mobile App Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol%20Ratn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anmolratn/)
 [![GitHub](https://img.shields.io/badge/GitHub-BeerBro6-181717?style=flat&logo=github)](https://github.com/BeerBro6)
 
 </div>
