@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hey, I'm Anmol Ratn 👋
 
@@ -16,9 +16,12 @@
 
 Results-driven **Machine Learning Engineer** and **Software Developer** with a strong foundation in Computer Science, Data Science, and Mobile Architecture. Experienced in designing predictive machine learning systems, statistical modeling pipelines, and high-performance cross-platform software.
 
-- 🎓 **Academic & Professional Foundation:** Computer Science & Data Science Background (AlmaBetter Certified in Advanced Machine Learning & Deep Learning).
-- 📊 **Data Science Competencies:** Statistical Inference, Exploratory Data Analysis (EDA), Feature Engineering, Hypothesis Testing, and Supervised/Unsupervised Modeling.
-- 📱 **Systems & App Engineering:** End-to-end mobile architecture with Flutter/Dart, native audio extraction pipelines, and RESTful API integration.
+- 🎓 **Premier Certifications & Credentials:**
+  - **Vishlesan I-Hub, IIT Patna** — Advanced Certification & Technical Training
+  - **NASSCOM Certified** — Data Science & Agentic AI (Autonomous AI Agents, LLM Orchestration & Intelligent Workflows)
+  - **AlmaBetter Certified** — Full-Stack Data Science & Machine Learning
+- 🤖 **AI & Data Science Competencies:** Agentic AI Architectures, Multi-Agent Systems, Statistical Inference, Exploratory Data Analysis (EDA), Feature Engineering, Supervised/Unsupervised Modeling, and Deep Learning.
+- 📱 **Systems & App Engineering:** End-to-end cross-platform architecture with Flutter/Dart, native audio extraction pipelines, and RESTful API integration.
 - 🎧 **Flagship Project:** Creator of **[SpectraFlow](https://github.com/BeerBro6/spectraflow)** — an open-source, lossless audio archiver and Hi-Fi player.
 
 ---
@@ -27,13 +30,13 @@ Results-driven **Machine Learning Engineer** and **Software Developer** with a s
 
 ```
 ┌──────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
-│  Data Science & Modeling     │  Computer Science & Systems  │  Software & App Development  │
+│  AI, Agents & Data Science   │  Computer Science & Systems  │  Software & App Development  │
 ├──────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
-│ • Regression & Classification│ • Data Structures & Algo     │ • Cross-Platform (Flutter)   │
-│ • Random Forest & XGBoost    │ • Object-Oriented Design     │ • Asynchronous Dart / Python │
-│ • Clustering & Dimensionality│ • Database Systems (SQL)     │ • Audio Signal Pipeline (DSP)│
+│ • Agentic AI & Autonomous LLMs│ • Data Structures & Algo     │ • Cross-Platform (Flutter)   │
+│ • Regression & Classification│ • Object-Oriented Design     │ • Asynchronous Dart / Python │
+│ • Random Forest & XGBoost    │ • Database Systems (SQL)     │ • Audio Signal Pipeline (DSP)│
 │ • Deep Neural Networks (ANN) │ • Operating Systems Concepts │ • REST API Integration       │
-│ • Natural Language Processing│ • Git Version Control / CI   │ • State Management & Clean UI│
+│ • NLP & Statistical Modeling │ • Git Version Control / CI   │ • State Management & Clean UI│
 └──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
 ```
 
