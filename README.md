@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Anmol Ratn 👋
+# Hey, I'm Anmol 👋
 
 ### Machine Learning Engineer · Data Scientist · Software Engineer
 
