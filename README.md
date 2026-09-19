@@ -48,14 +48,20 @@ Results-driven **Machine Learning Engineer** and **Software Developer** with a s
 <tr>
 <td width="50%" valign="top">
 
-#### 🌈 [SpectraFlow](https://github.com/BeerBro6/spectraflow)
-**Production-Grade Offline Music Archiver & Hi-Fi FLAC Player**
-- Engineered an offline-first architecture for multi-format audio extraction (FLAC, OPUS, MP3, M4A).
-- Integrated synchronized real-time LRCLIB karaoke lyrics engine with millisecond timestamp mapping.
-- Designed Material 3 glassmorphic UI with dynamic color extraction and background audio playback sessions.
-- Fully open-source under GPL-3.0 with zero trackers and zero telemetry.
+#### 🌈 SpectraFlow (Studio Lossless Audio & DSP Player)
+[![Status: Stealth Development](https://img.shields.io/badge/Status-Stealth_Development-00F2FE?style=flat-square&logo=git&logoColor=black)](#)
+[![Audio: 24--bit Bit--Perfect](https://img.shields.io/badge/Engine-Bit--Perfect_FLAC_24bit-FF2E93?style=flat-square)](#)
+[![Coming Soon](https://img.shields.io/badge/Public_Release-Coming_Soon_Q4-9D4EDD?style=flat-square)](#)
 
-`Flutter` `Dart` `Python` `FFmpeg` `just_audio` `Audio DSP`
+**The Audiophile's Dream Mobile & Desktop Player — Built for Pure Sound Lovers**
+- 💎 **True Bit-Perfect Output:** Direct 24-bit / 96kHz & 192kHz native decoding bypassing Android 48kHz OS resamplers.
+- 🚗 **Acoustic Car DSP Matrix:** Pioneer 7600 Space Expand, Alpine BassEngine & Clarion HX-D2 road-noise compensation.
+- 🎭 **Dual-Persona Architecture:** 1-Tap **Classic Minimal** (zero-clutter, auto-leveling) vs. **Audiophile Studio** (10-band parametric faders, live Poweramp audio spec pill).
+- ⚡ **Stream & Vault Engine:** Ultra-low latency lookahead buffering, LRCLIB synchronized lyrics, and lossless local indexing.
+
+`Flutter` `Dart` `ExoPlayer` `Audio DSP` `Native C/JNI` `Lossless FLAC`
+
+*🔒 Repository currently in private beta development. Public release dropping soon.*
 
 </td>
 <td width="50%" valign="top">
